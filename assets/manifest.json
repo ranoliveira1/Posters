@@ -1,0 +1,10 @@
+{
+    "name": "See Marvel's Posters",
+    "short_name": "Marvel",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "This app display some posters of Marvel's movies.",
+    "orientation": "natural"
+}
